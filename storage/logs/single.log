@@ -1,0 +1,124 @@
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 08:10:19 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 10:28:52 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-08 10:28:52 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-08 10:28:52 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 10:29:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 10:29:38 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 10:41:04 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 10:41:04 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 10:41:04 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 10:41:04 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 10:41:04 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 10:44:39 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 10:44:39 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 10:44:39 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 10:44:39 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 18:55:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 18:55:38 - INFO - "GET /recipes HTTP/1.1" 200 2
+2021-12-08 18:55:59 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 18
+2021-12-08 18:55:59 - ERROR - "POST /recipes HTTP/1.1" 500 1043876
+2021-12-08 18:56:03 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 18
+2021-12-08 18:56:03 - ERROR - "POST /recipes HTTP/1.1" 500 1043876
+2021-12-08 18:57:42 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 18
+2021-12-08 18:57:42 - ERROR - "POST /recipes HTTP/1.1" 500 1044048
+2021-12-08 18:57:48 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 18
+2021-12-08 18:57:48 - ERROR - "POST /recipes HTTP/1.1" 500 1043715
+2021-12-08 18:57:50 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 18
+2021-12-08 18:57:50 - ERROR - "POST /recipes HTTP/1.1" 500 1043715
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 18:58:19 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 18:58:28 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 18:58:28 - INFO - "GET /recipes HTTP/1.1" 200 181
+2021-12-08 18:58:28 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 18:58:40 - ERROR - AttributeError in /Users/quentinb/development/seir_penguin/projects/Masonite_Cookbook/backend/app/http/controllers/RecipeController.py on line 14
+2021-12-08 18:58:40 - ERROR - "GET /recipes/1 HTTP/1.1" 500 1046047
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 19:00:01 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 19:00:01 - INFO - "POST /recipes HTTP/1.1" 200 380
+2021-12-08 19:00:01 - INFO - "GET /recipes/1 HTTP/1.1" 200 179
+2021-12-08 19:00:01 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 19:00:01 - INFO - "GET /recipes HTTP/1.1" 200 563
+2021-12-08 19:06:38 - WARNING - "PUT /recipes/1 HTTP/1.1" 404 1536
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 19:06:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 19:06:38 - INFO - "GET /recipes/1 HTTP/1.1" 200 179
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 19:07:45 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 19:08:06 - ERROR - ResponseError in 0 on line 0
+2021-12-08 19:08:09 - ERROR - ResponseError in 0 on line 0
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 19:08:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 19:08:38 - INFO - "PUT /recipes/1 HTTP/1.1" 200 409
+2021-12-08 19:08:38 - INFO - "PUT /recipes/1 HTTP/1.1" 200 342
+2021-12-08 19:08:38 - INFO - "GET /recipes HTTP/1.1" 200 726
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-08 19:15:06 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-08 19:15:06 - INFO - "DELETE /recipes/2 HTTP/1.1" 200 382
+2021-12-08 19:15:06 - INFO - "GET /recipes HTTP/1.1" 200 344
+2021-12-08 19:15:06 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
