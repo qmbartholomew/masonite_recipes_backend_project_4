@@ -1,4 +1,4 @@
-# Project 4 - Masonite Cookbook
+# Project 4 - Masonite Cookbook Backend
 
 #### By Quentin Bartholomew
 
@@ -32,5 +32,7 @@
 ## List of Technologies
 
 - Python
+
 - Masonite
+
 - JavaScript/JSX
