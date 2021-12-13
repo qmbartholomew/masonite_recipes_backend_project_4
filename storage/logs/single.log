@@ -229,3 +229,11 @@
 2021-12-13 08:51:26 - ERROR - ResponseError in 0 on line 0
 2021-12-13 08:51:37 - ERROR - JSONDecodeError in /Users/quentinb/.pyenv/versions/3.9.0/lib/python3.9/json/decoder.py on line 340
 2021-12-13 08:51:37 - ERROR - "DELETE /recipes/6 HTTP/1.1" 500 1043434
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-13 09:05:11 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-13 09:05:11 - INFO - "POST /recipes HTTP/1.1" 200 1014
