@@ -23,6 +23,7 @@ class RecipeController(Controller):
         ingredients = self.request.input('ingredients')
         url = self.request.input('url')
         recipe = Recipe.create({"name": name, "image": image, "instructions": instructions, "ingredients": ingredients, "url": url})
+        print(recipe)
         return recipe
 
     def update(self):
