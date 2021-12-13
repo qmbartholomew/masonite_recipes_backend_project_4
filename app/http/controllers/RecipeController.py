@@ -18,22 +18,25 @@ class RecipeController(Controller):
 
     def create(self):
         name = self.request.input('name')
+        description = self.request.input('description')
         image = self.request.input('image')
         instructions = self.request.input('instructions')
         ingredients = self.request.input('ingredients')
+        author = self.request.input('author')
         url = self.request.input('url')
-        recipe = Recipe.create({"name": name, "image": image, "instructions": instructions, "ingredients": ingredients, "url": url})
-        print(recipe)
+        recipe = Recipe.create({"name": name, "description": description, "image": image, "instructions": instructions, "ingredients": ingredients, "author": author, "url": url})
         return recipe
 
     def update(self):
         id = self.request.param('id')
         name = self.request.input('name')
+        description = self.request.input('description')
         image = self.request.input('image')
         instructions = self.request.input('instructions')
         ingredients = self.request.input('ingredients')
+        author = self.request.input('author')
         url = self.request.input('url')
-        Recipe.where('id', id).update({"name": name, "image": image, "instructions": instructions, "ingredients": ingredients, "url": url})
+        Recipe.where('id', id).update({"name": name, "description": description, "image": image, "instructions": instructions, "ingredients": ingredients, "author": author, "url": url})
         return Recipe.find(id)
 
     def destroy(self):

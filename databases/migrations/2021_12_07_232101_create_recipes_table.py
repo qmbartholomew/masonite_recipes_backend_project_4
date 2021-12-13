@@ -11,9 +11,11 @@ class CreateRecipesTable(Migration):
         with self.schema.create("recipes") as table:
             table.increments("id")
             table.string("name")
+            table.string("description").default("A delicious meal!")
             table.string("image")
-            table.string("instructions")
-            table.string("ingredients")
+            table.string("instructions", length=2048)
+            table.string("ingredients", length=2048)
+            table.string("author").default("Original Recipe")
             table.string("url")
             table.timestamps()
 
