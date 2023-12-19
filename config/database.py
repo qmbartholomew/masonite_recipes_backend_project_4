@@ -23,7 +23,7 @@ They can be named whatever you want.
 """
 
 DATABASES = {
-    'default': env('DB_CONNECTION', 'sqlite'),
+    'default': env('DB_CONNECTION', 'postgres'),
     'sqlite': {
         'driver': 'sqlite',
         'database': env('SQLITE_DB_DATABASE', 'masonite.sqlite3'),
